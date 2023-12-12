@@ -35,3 +35,48 @@
 // })
 // console.log(longestWord)
  
+
+
+const books = [
+    "To Kill a Mockingbird",
+    "1984",
+    "The Great Gatsby",
+    "Pride and Prejudice",
+    "The Catcher in the Rye",
+    "The Lord of the Rings",
+    "Animal Farm",
+    "Brave New World",
+    "The Grapes of Wrath",
+    "The Hobbit",
+    "One Hundred Years of Solitude",
+    "The Catcher in the Rye",
+    "Catch-22",
+    "The Brothers Karamazov",
+    "Moby Dick",
+    "The Odyssey",
+    "Frankenstein",
+    "Alice's Adventures in Wonderland",
+    "The Picture of Dorian Gray",
+    "War and Peace",
+  ];
+//5.
+//   books.sort()
+//   console.log(books)
+
+//6.
+
+// let longestWord = " ";
+// longestWord = books[0]; 
+// books.forEach((word)=>{
+//     if(word.length>longestWord.length){
+//         longestWord=word;
+//     }
+// })
+// console.log(longestWord)
+
+
+//7.
+
+// const string =books.toString()
+// const char =string.split("")
+// console.log(char.length)
